@@ -1,7 +1,7 @@
 body {
     background-color: hsl(217, 54%, 11%);
     color: aliceblue;
-    height: 700px;  /* check how prof set the height */
+    height: 98vh;
     display: flex;
     align-items: center;
     justify-content: center;
